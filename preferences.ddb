@@ -1,0 +1,27 @@
+{preferences}
+    (style)
+        standart
+    (*style)
+    (@author)
+        Malte Dostal
+    (*@author)
+    (software)
+        Test
+    (*software)
+    {subSpecies1}
+        (tag1)
+            true
+        (*tag1)
+        {subSpecies2}
+            (tag2)
+                true
+            (*tag2)
+            (tag3)
+                all
+            (*tag3)
+        {*subSpecies2}
+    {*subSpecies1}
+{preferences*}
+
+
+
